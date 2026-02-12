@@ -15,7 +15,7 @@
 </head>
 <body>
     <div class="box">
-        <img src="photo.jpg"> 
+        : <img src="20260208_231057.jpg"
         <h1 id="t">Will you be my Galentine? 💖</h1>
         <button id="yes" onclick="win()">YES!</button>
         <button id="no">No</button>
